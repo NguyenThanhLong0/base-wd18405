@@ -3,7 +3,10 @@
   "autoload": {
     "psr-4": {
       "Nguyenlong\\BaseWd18405\\": "src/"
-    }
+    },
+    "files": [
+      "helper.php"
+    ]
   },
   "authors": [
     {
